@@ -1,65 +1,100 @@
-# Subdirección para el Conocimiento del Riesgo (SCR) — UNGRD
+# Subdirección para el Conocimiento del Riesgo — UNGRD
 
-La **Subdirección para el Conocimiento del Riesgo**, de la **Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD)** de Colombia, usa este espacio para publicar los productos digitales derivados de su labor de generación y difusión de conocimiento del riesgo de desastres, en el marco de la Ley 1523 de 2012: libros e investigaciones, fichas territoriales, cuadernos reproducibles, geovisores y tableros de monitoreo.
+**Unidad Nacional para la Gestión del Riesgo de Desastres (UNGRD) · Colombia**
 
-Portal institucional: http://portal.gestiondelriesgo.gov.co/ · Bogotá, Colombia · [@UNGRD](https://twitter.com/UNGRD)
+La Subdirección para el Conocimiento del Riesgo (SCR) tiene como misión *diseñar, promover y apoyar la implementación del proceso de conocimiento del riesgo* en el Sistema Nacional de Gestión del Riesgo de Desastres (SNGRD), según la [Ley 1523 de 2012](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=47141). Además asesora la formulación de proyectos y gestiona la capacitación y la investigación sobre el riesgo de desastres.
 
-## Libros e investigaciones en GRD
+En esta cuenta publicamos, como **ciencia abierta**, los productos digitales de ese trabajo: libros interactivos, cuadernos computacionales reproducibles, fichas territoriales, geovisores y memorias de eventos. Cada repositorio contiene el código y los datos necesarios para reconstruir el producto, y la mayoría se publica automáticamente como sitio web.
 
-Serie editorial que documenta el estado del conocimiento, la reducción y el manejo del riesgo de desastres en Colombia.
+🌐 [Sitio de la SCR](https://sites.google.com/gestiondelriesgo.gov.co/scr/inicio) · 🏛️ [Portal UNGRD](https://portal.gestiondelriesgo.gov.co/) · 🧭 [**HUB de repositorios y herramientas**](https://scr-ungrd.github.io/hub/)
+
+---
+
+## El proceso de conocimiento del riesgo
+
+La SCR orienta y asesora los cuatro subprocesos del conocimiento del riesgo:
+
+| Subproceso | Ejemplos en esta cuenta |
+|---|---|
+| **Identificación de escenarios de riesgo** | Fichas departamentales de escenarios de riesgo |
+| **Análisis y evaluación del riesgo** | Cuadernos reproducibles (olas de calor, tsunami, sismicidad) |
+| **Monitoreo del riesgo** | Geovisores de incendios forestales y de El Niño 2026–2027 |
+| **Comunicación del riesgo** | Libros digitales, visor ciudadano del volcán Galeras, memorias de eventos |
+
+También ejerce la secretaría técnica del **Comité Nacional para el Conocimiento del Riesgo**, la **Comisión Técnica Nacional Asesora para el Conocimiento del Riesgo** y la **Comisión Nacional Asesora para la Investigación en Gestión del Riesgo de Desastres**.
+
+---
+
+## Destacados
+
+| Producto | Descripción |
+|---|---|
+| 🧭 [**HUB SCR**](https://scr-ungrd.github.io/hub/) · [repo](https://github.com/scr-ungrd/hub) | Portal central de publicaciones, herramientas y recursos digitales en conocimiento del riesgo |
+| 📊 [**Estado de la CTeI en GRD**](https://scr-ungrd.github.io/estado-ctei-grd-colombia/) · [repo](https://github.com/scr-ungrd/estado-ctei-grd-colombia) | Estado de la ciencia, la tecnología y la innovación en gestión del riesgo en Colombia, con cifras calculadas a partir de la vigilancia científica |
+| 📚 [**Catálogo editorial**](https://scr-ungrd.github.io/catalogo-publicaciones/) · [repo](https://github.com/scr-ungrd/catalogo-publicaciones) | Catálogo de publicaciones de la SCR |
+
+## 📚 Libros digitales
+
+| Libro | Descripción |
+|---|---|
+| [Investigaciones en GRD para Colombia](https://scr-ungrd.github.io/investigaciones-grd-colombia/) · [repo](https://github.com/scr-ungrd/investigaciones-grd-colombia) | Portada de la serie editorial |
+| [Investigaciones en GRD 2021](https://scr-ungrd.github.io/investigaciones-grd-2021/) · [repo](https://github.com/scr-ungrd/investigaciones-grd-2021) | Avances, perspectivas y casos de estudio |
+| [Investigaciones en GRD 2023](https://scr-ungrd.github.io/investigaciones-grd-2023/) · [repo](https://github.com/scr-ungrd/investigaciones-grd-2023) | Edición 2023 |
+| [Investigaciones en GRD 2025](https://scr-ungrd.github.io/investigaciones-grd-2025/) · [repo](https://github.com/scr-ungrd/investigaciones-grd-2025) | Enfoque comunitario, territorial y animal |
+| [Aplicación SIG en la gestión del riesgo](https://scr-ungrd.github.io/aplicacion-sig-grd/) · [repo](https://github.com/scr-ungrd/aplicacion-sig-grd) | Libro digital sobre sistemas de información geográfica para la GRD |
+| [Conociendo el riesgo por aguas de escorrentía](https://scr-ungrd.github.io/conociendo-el-riesgo-aguas-escorrentia/) · [repo](https://github.com/scr-ungrd/conociendo-el-riesgo-aguas-escorrentia) | Recurso educativo interactivo |
+
+## 🔬 Cuadernos reproducibles de conocimiento del riesgo (CRC)
+
+Cuadernos computacionales en [MyST](https://mystmd.org/) y Jupyter, inspirados en [Notebooks Now (AGU)](https://notebooks.agu.org): cada análisis puede ejecutarse de nuevo, de principio a fin, con datos abiertos.
+
+| Cuaderno | Tema |
+|---|---|
+| [Colección CRC](https://scr-ungrd.github.io/cuadernos-reproducibles/) · [repo](https://github.com/scr-ungrd/cuadernos-reproducibles) | Portada de la colección |
+| [CRC000](https://scr-ungrd.github.io/cuadernos-reproducibles-crc000/) · [repo](https://github.com/scr-ungrd/cuadernos-reproducibles-crc000) | Plantilla MyST para nuevos cuadernos |
+| [CRC001](https://scr-ungrd.github.io/cuadernos-reproducibles-crc001/) · [repo](https://github.com/scr-ungrd/cuadernos-reproducibles-crc001) | Riesgo por olas de calor urbano en Montería bajo escenarios de cambio climático |
+| [CRC002](https://scr-ungrd.github.io/cuadernos-reproducibles-crc002/) · [repo](https://github.com/scr-ungrd/cuadernos-reproducibles-crc002) | Simulación del tsunami de Tumaco de 1979 |
+| [CRC003](https://scr-ungrd.github.io/cuadernos-reproducibles-crc003/) · [repo](https://github.com/scr-ungrd/cuadernos-reproducibles-crc003) | Análisis de la sismicidad de Colombia con el catálogo del USGS |
+
+## 🗺️ Fichas territoriales
 
 | Repositorio | Descripción |
 |---|---|
-| [investigaciones-grd-colombia](https://github.com/scr-ungrd/investigaciones-grd-colombia) | Repositorio general de la serie de libros |
-| [investigaciones-grd-2021](https://github.com/scr-ungrd/investigaciones-grd-2021) | Avances, perspectivas y casos de estudio (2021) |
-| [investigaciones-grd-2023](https://github.com/scr-ungrd/investigaciones-grd-2023) | Edición 2023 |
-| [investigaciones-grd-2025](https://github.com/scr-ungrd/investigaciones-grd-2025) | Edición 2025 |
-| [estrategia-ciencia-grd](https://github.com/scr-ungrd/estrategia-ciencia-grd) | Estrategia de ciencia, tecnología e innovación en GRD — figuras y tablas interactivas |
+| [Fichas departamentales de escenarios de riesgo](https://scr-ungrd.github.io/fichas-departamentales-escenarios-riesgo/) · [repo](https://github.com/scr-ungrd/fichas-departamentales-escenarios-riesgo) | Caracterización de escenarios de riesgo por departamento |
+| [Ficha de Córdoba](https://scr-ungrd.github.io/fichas-departamentales-escenarios-riesgo-cordoba/) · [repo](https://github.com/scr-ungrd/fichas-departamentales-escenarios-riesgo-cordoba) | Ficha departamental de Córdoba |
+| [Objetos de las fichas](https://scr-ungrd.github.io/fichas-departamentales-escenarios-riesgo-objetos/fichas-departamentales-objetos.html) · [repo](https://github.com/scr-ungrd/fichas-departamentales-escenarios-riesgo-objetos) | Figuras, tablas, cajas y mapas reutilizables |
 
-## Fichas y catálogos departamentales
+## 🛰️ Geovisores y tableros
+
+| Visor | Descripción |
+|---|---|
+| [Incendios forestales – Colombia](https://incendios-colombia-wfs.streamlit.app/) · [repo](https://github.com/scr-ungrd/incendios-colombia-wfs) | Monitoreo y análisis de incendios con datos satelitales |
+| [Escenarios de incendios forestales ante El Niño 2026–2027](https://scr-ungrd.github.io/escenarios-incendios-sngrd-free/) · [repo](https://github.com/scr-ungrd/escenarios-incendios-sngrd-free) | Escenarios de incendios y capacidades del SNGRD ([versión de producción](https://github.com/scr-ungrd/escenarios-incendios-sngrd)) |
+| [Visor de riesgo implícito del volcán Galeras](https://scr-ungrd.github.io/visor-riesgoimplicito-volcangaleras/) · [repo](https://github.com/scr-ungrd/visor-riesgoimplicito-volcangaleras) | Consulta ciudadana del Mapa de Riesgo Implícito Concertado UNGRD–SGC |
+| [Visor El Niño 2026–2027](https://github.com/scr-ungrd/visor-nino-2026-2027) | Tablero dinámico (Streamlit) de escenarios de riesgo ante El Niño |
+
+## 🎓 Eventos, memorias y formación
 
 | Repositorio | Descripción |
 |---|---|
-| [fichas-departamentales-escenarios-riesgo](https://github.com/scr-ungrd/fichas-departamentales-escenarios-riesgo) | Fichas departamentales de caracterización de escenarios de riesgo |
-| [fichas-departamentales-escenarios-riesgo-cordoba](https://github.com/scr-ungrd/fichas-departamentales-escenarios-riesgo-cordoba) | Ficha del departamento de Córdoba |
-| [fichas-departamentales-escenarios-riesgo-objetos](https://github.com/scr-ungrd/fichas-departamentales-escenarios-riesgo-objetos) | Cuaderno de figuras, tablas, cajas y mapas reutilizados en las fichas |
-| [catalogo-publicaciones](https://github.com/scr-ungrd/catalogo-publicaciones) | Catálogo de publicaciones de la SCR |
+| [Memorias IDRiM 2024](https://scr-ungrd.github.io/memorias-idrim-2024-colombia/) · [repo](https://github.com/scr-ungrd/memorias-idrim-2024-colombia) | 14.ª Conferencia Internacional de la IDRiM (Cartagena, 2024) |
+| [Memorias PN26](https://scr-ungrd.github.io/memorias-pn26/) · [repo](https://github.com/scr-ungrd/memorias-pn26) | Plataforma Nacional para la Gestión del Riesgo de Desastres 2026 |
+| [Taller de radares meteorológicos](https://scr-ungrd.github.io/taller-radares/) · [repo](https://github.com/scr-ungrd/taller-radares) | Del dato al impacto: Zarr y datos abiertos en la nube para la GRD |
 
-## Cuadernos reproducibles
+---
 
-Plantillas y cuadernos basados en [MyST](https://mystmd.org/) / Jupyter para publicaciones científicas reproducibles, inspirados en [Notebooks Now](https://notebooks.agu.org).
+## Otros recursos de la SCR
 
-| Repositorio | Descripción |
-|---|---|
-| [cuadernos-reproducibles](https://github.com/scr-ungrd/cuadernos-reproducibles) | Repositorio base |
-| [cuadernos-reproducibles-crc000](https://github.com/scr-ungrd/cuadernos-reproducibles-crc000) | Plantilla MyST |
-| cuadernos-reproducibles-crc001 … crc006 | Instancias de cuadernos reproducibles específicos |
+- **Mapas comunitarios**: más de 146 municipios de 18 departamentos ya tienen su mapa comunitario.
+- [Visor geográfico de información territorial](https://lookerstudio.google.com/reporting/f25cf2fe-484b-4efd-8e11-54fcbd38b454/page/mqD7D): amenaza por avenidas torrenciales, instrumentos de ordenamiento, consejos territoriales y planes municipales de GRD.
+- [Herramientas y recursos](https://sites.google.com/gestiondelriesgo.gov.co/scr/herramientas-y-recursos): SIG, datos hidrometeorológicos, vulnerabilidad, incendios forestales y gestión del riesgo mundial.
+- [Plan Nacional de Gestión del Riesgo de Desastres](https://portal.gestiondelriesgo.gov.co/paginas/plan-nacional-de-gestion-del-riesgo.aspx).
 
-## Geovisores y aplicaciones
+## Cómo usar y citar
 
-| Repositorio | Descripción |
-|---|---|
-| [aplicacion-sig-grd](https://github.com/scr-ungrd/aplicacion-sig-grd) | Aplicación SIG para gestión del riesgo de desastres |
-| [visor-riesgoimplicito-volcangaleras](https://github.com/scr-ungrd/visor-riesgoimplicito-volcangaleras) | Consulta ciudadana del riesgo implícito concertado UNGRD–SGC, Volcán Galeras |
-| [incendios-colombia-wfs](https://github.com/scr-ungrd/incendios-colombia-wfs) | Geovisor de monitoreo de incendios forestales (WildFire Solution / OroraTech) |
-| [visor-nino-2026-2027](https://github.com/scr-ungrd/visor-nino-2026-2027) | Visor del fenómeno de El Niño 2026-2027 |
-| [SismoSanJosedelPalmarChocoM7.4](https://github.com/scr-ungrd/SismoSanJosedelPalmarChocoM7.4) | Tablero de afectaciones — sismo San José del Palmar, Chocó (M7.4) |
-
-## Análisis de riesgos y memorias de eventos
-
-| Repositorio | Descripción |
-|---|---|
-| [riesgos](https://github.com/scr-ungrd/riesgos) | Modelamiento de amenazas (inundaciones, deslizamientos, incendios) con machine learning |
-| [memorias-idrim-2024-colombia](https://github.com/scr-ungrd/memorias-idrim-2024-colombia) | Memorias de la conferencia IDRiM 2024 |
-| [memorias-pn26](https://github.com/scr-ungrd/memorias-pn26) | Memorias del evento PN26 |
-
-## Infraestructura
-
-| Repositorio | Descripción |
-|---|---|
-| [hub](https://github.com/scr-ungrd/hub) | Portal central de publicaciones, herramientas y recursos en conocimiento del riesgo |
+Los productos se publican con licencias abiertas; revisa el archivo `LICENSE` y, cuando exista, `CITATION.cff` de cada repositorio para citarlo (varios tienen DOI en Zenodo). Para reportar un error o proponer una mejora, abre un *issue* en el repositorio correspondiente.
 
 ## Contacto
 
-- Portal: http://portal.gestiondelriesgo.gov.co/
-- Twitter/X: [@UNGRD](https://twitter.com/UNGRD)
+📧 contactenos@gestiondelriesgo.gov.co · ☎️ (+57) 601 552 9696 · línea gratuita 01 8000 113200
+[X @UNGRD](https://x.com/ungrd) · [Instagram @ungrd_oficial](https://www.instagram.com/ungrd_oficial/) · Bogotá, Colombia
