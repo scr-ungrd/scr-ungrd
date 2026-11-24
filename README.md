@@ -4,7 +4,7 @@
 
 La Subdirección para el Conocimiento del Riesgo (SCR) tiene como misión *diseñar, promover y apoyar la implementación del proceso de conocimiento del riesgo* en el Sistema Nacional de Gestión del Riesgo de Desastres (SNGRD), según la [Ley 1523 de 2012](https://www.funcionpublica.gov.co/eva/gestornormativo/norma.php?i=47141). Además asesora la formulación de proyectos y gestiona la capacitación y la investigación sobre el riesgo de desastres.
 
-En esta cuenta publicamos, como **ciencia abierta**, los productos digitales de ese trabajo: libros interactivos, cuadernos computacionales reproducibles, fichas territoriales, geovisores y memorias de eventos. Cada repositorio contiene el código y los datos necesarios para reconstruir el producto, y la mayoría se publica automáticamente como sitio web.
+En esta cuenta publicamos, como recursos **abiertos y reproducibles**, productos digitales como aplicaciones, libros interactivos, cuadernos computacionales, fichas territoriales, geovisores y memorias de eventos. Cada repositorio contiene el código y los datos necesarios para reconstruir el producto, y la mayoría se publica automáticamente como sitio web.
 
 🌐 [Sitio de la SCR](https://sites.google.com/gestiondelriesgo.gov.co/scr/inicio) · 🏛️ [Portal UNGRD](https://portal.gestiondelriesgo.gov.co/) · 🧭 [**HUB de repositorios y herramientas**](https://scr-ungrd.github.io/hub/)
 
@@ -25,22 +25,11 @@ También ejerce la secretaría técnica del **Comité Nacional para el Conocimie
 
 ---
 
-## Destacados
-
-| Producto | Descripción |
-|---|---|
-| 🧭 [**HUB SCR**](https://scr-ungrd.github.io/hub/) · [repo](https://github.com/scr-ungrd/hub) | Portal central de publicaciones, herramientas y recursos digitales en conocimiento del riesgo |
-| 📊 [**Estado de la CTeI en GRD**](https://scr-ungrd.github.io/estado-ctei-grd-colombia/) · [repo](https://github.com/scr-ungrd/estado-ctei-grd-colombia) | Estado de la ciencia, la tecnología y la innovación en gestión del riesgo en Colombia, con cifras calculadas a partir de la vigilancia científica |
-| 📚 [**Catálogo editorial**](https://scr-ungrd.github.io/catalogo-publicaciones/) · [repo](https://github.com/scr-ungrd/catalogo-publicaciones) | Catálogo de publicaciones de la SCR |
-
 ## 📚 Libros digitales
 
 | Libro | Descripción |
 |---|---|
 | [Investigaciones en GRD para Colombia](https://scr-ungrd.github.io/investigaciones-grd-colombia/) · [repo](https://github.com/scr-ungrd/investigaciones-grd-colombia) | Portada de la serie editorial |
-| [Investigaciones en GRD 2021](https://scr-ungrd.github.io/investigaciones-grd-2021/) · [repo](https://github.com/scr-ungrd/investigaciones-grd-2021) | Avances, perspectivas y casos de estudio |
-| [Investigaciones en GRD 2023](https://scr-ungrd.github.io/investigaciones-grd-2023/) · [repo](https://github.com/scr-ungrd/investigaciones-grd-2023) | Edición 2023 |
-| [Investigaciones en GRD 2025](https://scr-ungrd.github.io/investigaciones-grd-2025/) · [repo](https://github.com/scr-ungrd/investigaciones-grd-2025) | Enfoque comunitario, territorial y animal |
 | [Aplicación SIG en la gestión del riesgo](https://scr-ungrd.github.io/aplicacion-sig-grd/) · [repo](https://github.com/scr-ungrd/aplicacion-sig-grd) | Libro digital sobre sistemas de información geográfica para la GRD |
 | [Conociendo el riesgo por aguas de escorrentía](https://scr-ungrd.github.io/conociendo-el-riesgo-aguas-escorrentia/) · [repo](https://github.com/scr-ungrd/conociendo-el-riesgo-aguas-escorrentia) | Recurso educativo interactivo |
 
@@ -48,21 +37,16 @@ También ejerce la secretaría técnica del **Comité Nacional para el Conocimie
 
 Cuadernos computacionales en [MyST](https://mystmd.org/) y Jupyter, inspirados en [Notebooks Now (AGU)](https://notebooks.agu.org): cada análisis puede ejecutarse de nuevo, de principio a fin, con datos abiertos.
 
-| Cuaderno | Tema |
+| Cuaderno | Descripción |
 |---|---|
-| [Colección CRC](https://scr-ungrd.github.io/cuadernos-reproducibles/) · [repo](https://github.com/scr-ungrd/cuadernos-reproducibles) | Portada de la colección |
-| [CRC000](https://scr-ungrd.github.io/cuadernos-reproducibles-crc000/) · [repo](https://github.com/scr-ungrd/cuadernos-reproducibles-crc000) | Plantilla MyST para nuevos cuadernos |
-| [CRC001](https://scr-ungrd.github.io/cuadernos-reproducibles-crc001/) · [repo](https://github.com/scr-ungrd/cuadernos-reproducibles-crc001) | Riesgo por olas de calor urbano en Montería bajo escenarios de cambio climático |
-| [CRC002](https://scr-ungrd.github.io/cuadernos-reproducibles-crc002/) · [repo](https://github.com/scr-ungrd/cuadernos-reproducibles-crc002) | Simulación del tsunami de Tumaco de 1979 |
-| [CRC003](https://scr-ungrd.github.io/cuadernos-reproducibles-crc003/) · [repo](https://github.com/scr-ungrd/cuadernos-reproducibles-crc003) | Análisis de la sismicidad de Colombia con el catálogo del USGS |
+| [Colección CRC](https://scr-ungrd.github.io/cuadernos-reproducibles/) · [repo](https://github.com/scr-ungrd/cuadernos-reproducibles) | Página de inicio |
+
 
 ## 🗺️ Fichas territoriales
 
 | Repositorio | Descripción |
 |---|---|
 | [Fichas departamentales de escenarios de riesgo](https://scr-ungrd.github.io/fichas-departamentales-escenarios-riesgo/) · [repo](https://github.com/scr-ungrd/fichas-departamentales-escenarios-riesgo) | Caracterización de escenarios de riesgo por departamento |
-| [Ficha de Córdoba](https://scr-ungrd.github.io/fichas-departamentales-escenarios-riesgo-cordoba/) · [repo](https://github.com/scr-ungrd/fichas-departamentales-escenarios-riesgo-cordoba) | Ficha departamental de Córdoba |
-| [Objetos de las fichas](https://scr-ungrd.github.io/fichas-departamentales-escenarios-riesgo-objetos/fichas-departamentales-objetos.html) · [repo](https://github.com/scr-ungrd/fichas-departamentales-escenarios-riesgo-objetos) | Figuras, tablas, cajas y mapas reutilizables |
 
 ## 🛰️ Geovisores y tableros
 
@@ -96,5 +80,5 @@ Los productos se publican con licencias abiertas; revisa el archivo `LICENSE` y,
 
 ## Contacto
 
-📧 contactenos@gestiondelriesgo.gov.co · ☎️ (+57) 601 552 9696 · línea gratuita 01 8000 113200
+📧 conocimiento@gestiondelriesgo.gov.co · ☎️ (+57) 601 552 9696 · línea gratuita 01 8000 113200
 [X @UNGRD](https://x.com/ungrd) · [Instagram @ungrd_oficial](https://www.instagram.com/ungrd_oficial/) · Bogotá, Colombia
